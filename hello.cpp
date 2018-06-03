@@ -3,6 +3,6 @@ using namespace std;
 
 // main() is where program execution begins.
 int main() {
-   cout << "Hello World from cpp"; // prints Hello World
+   cout << "Hello World from cpp"; // prints Hello World from cpp
    return 0;
 }
